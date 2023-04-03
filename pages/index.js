@@ -6,7 +6,7 @@
 * 
 * Name: Lobsang Tenzin   Student ID: 103895215  Date: 2023/04/02
 *
-* Vercel App (Deployed) Link:
+* Vercel App (Deployed) Link: https://a6-web-422.vercel.app/
 * 
 *******************************************************************************************/
 
